@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162786046880",
+    "project_id": "chat-e44f9",
+    "storage_bucket": "chat-e44f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162786046880:android:a14994291d2f22b6496ac5",
+        "android_client_info": {
+          "package_name": "com.maki.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162786046880-vjoab7s2bo4o3o74s0i3vcvc7rp13qga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEa4GphivhrN1mICmVSGpgH5bOpfFXRgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162786046880-vjoab7s2bo4o3o74s0i3vcvc7rp13qga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
